@@ -15,6 +15,7 @@ A responsive and interactive Image Gallery built using HTML, CSS, and JavaScript
 🎨 Clean and modern UI
 🌙 Easy to customize and extend
 
+
 🛠️ Technologies Used
 
 
